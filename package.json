@@ -1,0 +1,14 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "Youtube_clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC"
+}
